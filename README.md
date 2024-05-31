@@ -1,7 +1,6 @@
 # hello
 Hello World service for testing purposes
 
-
 ## Build
 ```shell
 ./mvnw clean package
